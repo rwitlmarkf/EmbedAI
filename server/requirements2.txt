@@ -1,5 +1,3 @@
-pygptj
-pyllamacpp
 pypandoc==1.11
 pyparsing==2.4.7
 python-dateutil==2.8.2
