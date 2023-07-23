@@ -83,7 +83,7 @@ pycparser==2.21
 pydantic==1.10.8
 Pygments==2.15.1
 pygpt4all==1.1.0
-pygptj==2.0.3
+pygptj
 pyllamacpp==2.3.0
 pypandoc==1.11
 pyparsing==2.4.7
